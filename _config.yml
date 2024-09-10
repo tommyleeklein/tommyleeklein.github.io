@@ -21,7 +21,7 @@ repository               : "tommyleeklein/tommyleeklein.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://github.com/tommyleeklein/tommyleeklein.github.io/blob/4d405a49e33e7e08258d54767910729e0f37cde4/files/profile.JPG"
   name             : "Tommy-Lee Klein"
   pronouns         : # example: "she/her"  
   bio              : "First year PhD student in mathematics."
