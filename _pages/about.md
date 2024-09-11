@@ -18,7 +18,7 @@ I am Tommy-Lee, a first year PhD student in mathematics, under the supervision o
 
 ### Office address
 
-Bâtiment TPR2, Office XXX\
+Bâtiment TPR2, Office 222\
 Institut de Mathématiques de Marseille\
 Université d'Aix-Marseille\
 163 avenue de Luminy\
