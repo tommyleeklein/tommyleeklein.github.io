@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Tommy-Lee Klein"
 title_separator          : "-"
 name                     : &name "Tommy-Lee Klein"
 description              : &description "Academic Webpage"
@@ -22,7 +22,7 @@ repository               : "tommyleeklein/tommyleeklein.github.io"
 author:
   # Biographic information
   avatar           : "profile.JPG"
-  name             : "Tommy-Lee Klein"
+  name             : "About me"
   pronouns         : # example: "she/her"  
   bio              : "First year PhD student in mathematics."
   location         : "I2M, Luminy, Marseille"
