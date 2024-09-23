@@ -3,7 +3,7 @@ title: "Méthodologie"
 collection: teaching
 type: "L1"
 venue: "Aix-Marseille Université"
-date: 2024
+date: 2024-10-04
 location: "Aix-en-provence"
 ---
 
