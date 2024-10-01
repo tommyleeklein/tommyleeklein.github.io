@@ -28,7 +28,7 @@ author:
   location         : "I2M, Luminy, Marseille"
   employer         : "Aix-Marseille university"
   uri              : # URL
-  email            : "tommyleeklein12@gmail.com" 
+  email            : "tommy-lee.klein@univ-amu.fr" 
 
   # Academic websites
   arxiv            : https://arxiv.org/search/?query=Tommy-Lee+Klein&searchtype=author&source=header
@@ -88,7 +88,7 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+talkmap_link             : true #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
